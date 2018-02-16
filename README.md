@@ -1,1 +1,2 @@
 "# EasyHire" 
+Hiring made easy
